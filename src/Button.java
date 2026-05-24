@@ -4,6 +4,6 @@ import java.io.File;
 
 public class Button {
     static void main() {
-        new MouseListener();
+        new MyPanel();
     }
 }
